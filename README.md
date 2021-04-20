@@ -14,7 +14,7 @@
 ----
 
 # 📝 Apellidos, Nombres y Num Control
-
+  Amador Garcia Fernando  - 18210844
 
 -----
 
