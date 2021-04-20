@@ -14,8 +14,8 @@
 ----
 
 # 📝 Apellidos, Nombres y Num Control
-  Amador Garcia Fernando  - 18210844
-  Ramirez Bastidas Jose Daniel - 18212249
+  *Amador Garcia Fernando  - 18210844
+  *Ramirez Bastidas Jose Daniel - 18212249
 
 -----
 
