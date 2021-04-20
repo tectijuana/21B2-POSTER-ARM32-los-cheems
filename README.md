@@ -17,6 +17,7 @@
   - Amador Garcia Fernando  - 18210844
   - Ramirez Bastidas Jose Daniel - 18212249
   - Hernandez Quiroz Rodolfo Ivan - 19212682
+  - Ramirez Palos Jesus Edaurdo - 18210520
 
 -----
 
