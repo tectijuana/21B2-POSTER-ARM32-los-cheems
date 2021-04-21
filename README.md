@@ -18,7 +18,7 @@
   - Ramirez Bastidas Jose Daniel - 18212249
   - Hernandez Quiroz Rodolfo Ivan - 19212682
   - Ramirez Palos Jesus Edaurdo - 18210520
-
+- Leyva Hernandez Luis Fernando - 18210491
 -----
 
 📝  Debe crear dos DIRECTORIOS uno  "codigo"  ahi estarán los GIT CLONE, todos los ".s" y otro diga "docs" donde pondrá README.md e imagenes.
